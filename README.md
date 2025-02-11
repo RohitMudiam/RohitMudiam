@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rohit Mudiam</h1>
-<p>Hi there! I'm Rohit Mudiam, a passionate software developer with a love for problem-solving and building efficient solutions. With over 3.5 years of experience in web and backend development, I've worked across various tech stacks including Java, Python, and AWS. I enjoy learning new technologies and applying them to create impactful projects.</p>
+<p>A passionate software developer with a love for problem-solving and building efficient solutions. With over 3.5 years of experience in web and backend development, I've worked across various tech stacks including Java, Python, and AWS. I enjoy learning new technologies and applying them to create impactful projects.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
